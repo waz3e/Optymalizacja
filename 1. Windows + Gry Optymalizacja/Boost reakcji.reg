@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+
+; Made by Reknotic
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"DragFullWindows"="0"
+"Win8DpiScaling"=dword:00000000
+"DpiScalingVer"=dword:00001000
+"LastUpdated"=dword:ffffffff
+"ForegroundLockTimeout"="150000"
+"AutoEndTasks"="1"
+"HungAppTimeout"="4000"
+"WaitToKillAppTimeout"="5000"
+"LowLevelHooksTimeout"="1000"
+"MenuShowDelay"="0"
+"Pattern Upgrade"="TRUE"
+"WaitToKillServiceTimeout"="1000"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"WaitToKillServiceTimeout"="2000"

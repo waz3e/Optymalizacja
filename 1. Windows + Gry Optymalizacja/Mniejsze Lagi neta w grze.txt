@@ -1,0 +1,12 @@
+Wejdź do HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces
+
+
+potem do miejsca gdzie znajduje się twoje ip publiczne (sprawdzić możesz je w cmd wpisując tam "ipconfig")
+
+
+tutaj dodajesz
+
+DWORD(32-bit)   "TcpNoDelay"=00000001
+DWORD(32-bit)   "TcpAckFrequency"=00000001
+
+Czyli PPM nowy DWORD wpisujesz nazwe i zatwierdzasz a potem PPM "Modyfikuj" i wpisujesz 1
