@@ -1,0 +1,7 @@
+Wrzuć .bat do folderu autostart. automatyczneusuwanietemp
+
+
+
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+
+BACKGROUND PROCESS ELIMINATOR DAJ SOBIE NA PULPIT I WLACZAJ OD RAZU PO URUCHOMIENIU KOMPUTERA

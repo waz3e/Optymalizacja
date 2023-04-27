@@ -1,0 +1,4 @@
+pobierz afterburrner z przegladarki "wpisz to o czym ci przed chwila napisalem"
+
+w coreclock daj wartosc 175 a w memoryclock daj 750
+
